@@ -7,24 +7,7 @@ import java.io.ObjectOutputStream;
 import java.util.ArrayList;
 
 /**
- * This code is supplied as part of assignment 3. You will also need to use a version of your
- * IOHelper class from Exercise 1. You will only need the getInt and getString methods from the
- * IOHelper class, the rest can be deleted.
- * 
- * <p>This class is a pizza ordering system. It obtains information from the user and puts a pizza 
- * order together. It is driven by a command line menu, which is quite ugly, but it works, and 
- * is sufficient to test the operation of your three classes: Pizza, LineItem and IllegalPizza.
- * 
- * <p>You will obtain some information on how your classes need to behave, particularly on how they
- * can be sorted and saved to a file by examining this class. You are advised to make sure you 
- * understand how this code works, particularly the use of the ArrayList<LineItem> object.
- * 
- * <p>You have also been provided with unit testing classes and it would make sense to have your
- * Pizza and LineItem classes pass all of these unit tests before using them with this order
- * system.
- * 
  * @author Alan McLeod
- * @version 1.3
  */
 public class PizzaOrderSystem {
 

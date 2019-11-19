@@ -1,7 +1,6 @@
 import java.io.Serializable;
 
 /**
- * This is the LineItem classed used for assignment 3. 
  * This class exhibits the single line item that is in a pizza order. 
  * It is associated with the pizza objext and the number of pizzas being ordered. 
  */
